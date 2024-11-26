@@ -7,9 +7,4 @@ Tutorial covers the following:
 
 Required packages:
 
--numpy
--xarray
--netCDF4
--dask
--scikit-learn
--matplotlib
+numpy, xarray, netCDF4, dask, scikit-learn, matplotlib
