@@ -23,7 +23,7 @@
             "filters": null,
             "order": "C",
             "shape": [
-                263,
+                352,
                 1000,
                 28
             ],
@@ -154,7 +154,7 @@
             "filters": null,
             "order": "C",
             "shape": [
-                263
+                352
             ],
             "zarr_format": 2
         },

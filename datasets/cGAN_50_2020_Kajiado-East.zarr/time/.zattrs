@@ -3,5 +3,5 @@
         "time"
     ],
     "calendar": "proleptic_gregorian",
-    "units": "days since 2020-01-01"
+    "units": "days since 2020-01-01 00:00:00"
 }

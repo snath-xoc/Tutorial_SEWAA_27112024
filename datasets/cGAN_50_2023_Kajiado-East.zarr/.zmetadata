@@ -6,7 +6,7 @@
         },
         "Kajiado-East/.zarray": {
             "chunks": [
-                30,
+                28,
                 50,
                 28
             ],
@@ -23,7 +23,7 @@
             "filters": null,
             "order": "C",
             "shape": [
-                89,
+                206,
                 50,
                 28
             ],
@@ -139,7 +139,7 @@
         },
         "time/.zarray": {
             "chunks": [
-                30
+                28
             ],
             "compressor": {
                 "blocksize": 0,
@@ -154,7 +154,7 @@
             "filters": null,
             "order": "C",
             "shape": [
-                89
+                206
             ],
             "zarr_format": 2
         },
@@ -163,7 +163,7 @@
                 "time"
             ],
             "calendar": "proleptic_gregorian",
-            "units": "days since 2023-09-30 00:00:00"
+            "units": "days since 2023-06-01 00:00:00"
         }
     },
     "zarr_consolidated_format": 1

@@ -17,6 +17,7 @@
                 "id": "blosc",
                 "shuffle": 1
             },
+            "dimension_separator": ".",
             "dtype": "<f4",
             "fill_value": "NaN",
             "filters": null,
@@ -147,6 +148,7 @@
                 "id": "blosc",
                 "shuffle": 1
             },
+            "dimension_separator": ".",
             "dtype": "<i8",
             "fill_value": null,
             "filters": null,
@@ -161,7 +163,7 @@
                 "time"
             ],
             "calendar": "proleptic_gregorian",
-            "units": "days since 2020-01-01"
+            "units": "days since 2020-01-01 00:00:00"
         }
     },
     "zarr_consolidated_format": 1
